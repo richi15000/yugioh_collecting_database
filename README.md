@@ -11,3 +11,10 @@ Its able to download all yugiocards to your database
 Then you can add yours and store on your pc. or an Mysql server (coming soon)
 
 Card and deck management (coming soon)
+
+
+images:
+
+https://ibb.co/wKz30jr
+https://ibb.co/6t7gV7N
+https://ibb.co/R9mxhnp
