@@ -1,0 +1,6 @@
+Only works on local host.
+
+string connectionString = "server=localhost;port=3306;database=yugioh_local;user=local_user;password=local_password";
+
+
+must use these credetials on your loacal mysql host
